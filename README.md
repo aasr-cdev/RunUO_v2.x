@@ -1,5 +1,5 @@
 # RunUO_v2.x<img align="right" width="100" height="100" src="https://i.postimg.cc/fR3MNJWs/gameico-0005.png/100/100">
-An Ultima Online™ Server Emulator: Last Official Release
+An Ultima Online™ Server Emulator: Last 2.x Official Release
 
 ## Project Information
 > This repository aims to add uniformity within the source code and directory structure between all major releases of the RunUO Ultima Online™ Server Emulator as well as any relevant forks of the project which may become popular.
